@@ -1,7 +1,7 @@
 ## Clone da UI do Netflix usando React 😺
 Projeto feito com o objetivo de aprender a consutar API'S e coletar os dados em json para uso no front-end, feito exclusivamente para aprendizado.
-Fiz este projeto com a ajuda de uma live feito pelo Bonieky Lacerda, você pode acessar a live por esse link: https://www.youtube.com/watch?v=tBweoUiMsDg
-Talvez o a gravação desta live seja excluido pois mencionam isso nela.
+Fiz este projeto com a ajuda de uma live feita pelo Bonieky Lacerda, você pode acessar a live por esse link: https://www.youtube.com/watch?v=tBweoUiMsDg
+Talvez a gravação desta live seja excluido pois mencionam isso nela.
 
 Imagens do projeto:
 ![](prints/pc1.png)
